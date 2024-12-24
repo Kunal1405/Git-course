@@ -1,0 +1,5 @@
+getting the data from user
+
+...Creating avatar for user.
+...uploading fonts.
+...making process smoother.
